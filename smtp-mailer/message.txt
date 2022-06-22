@@ -1,0 +1,2 @@
+Hello, This mail was sent on {{date-%y}}, with {{random-n-19}} random numbers and {{random-s-15}} random strings sent to {{email}}
+{{attachment[abc.txt]}}

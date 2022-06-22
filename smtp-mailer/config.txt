@@ -1,0 +1,1 @@
+{'username': 'postmaster@gradesaver.xyz', 'password': 'password', 'smtp': 'smtp.eu.mailgun.org','secure':1, 'port': '587', 'from': 'Verify now <verify@gradesaver.xyz>', 'subject': 'Hello', 'text': 0, 'html': 1}
